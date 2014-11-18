@@ -1,0 +1,61 @@
+body {
+  padding-top: 70px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.navbar h1 {
+	margin: 0;
+	padding: 0;
+}
+
+.recent-books-col {
+	margin-bottom: 40px;
+}
+
+.front-recent-books-col h4 {
+	margin-top: 15px;
+}
+
+.front-recent-books-more {
+	font-weight: 600;
+	font-size: 16px;
+}
+
+.recent-books-col h3 {
+}
+
+.book-added-date {
+	font-size: 12px;
+}
+
+.book-description {
+
+}
+
+.book-description span {
+	font-weight: 600;
+}
+
+.book-state {
+
+}
+
+.book-state span {
+	font-weight: 600;
+}
+
+.book-price {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.single-book-seller-row p span {
+	font-weight: 600;
+}
+
+footer {
+	text-align: center;
+	margin-top: 30px;
+	padding-bottom: 20px;
+}
